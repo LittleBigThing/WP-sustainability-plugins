@@ -8,8 +8,8 @@ A plugin that checks the sustainability from your hosting company and the CO~2~ 
 
 ### Source
 
-- [WP.org Plugin Page[(https://wordpress.org/plugins/wpsustainable/)
-- Github page(https://github.com/javiercasares/WPsustainable)
+- [WP.org Plugin Page](https://wordpress.org/plugins/wpsustainable/)
+- [Github page](https://github.com/javiercasares/WPsustainable)
 
 ### Author(s)
 
