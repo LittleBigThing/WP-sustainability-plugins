@@ -26,6 +26,18 @@ This plugin calculates the greenhouse emissions from your website visits and int
 
 - [Ari Stathopoulos (@aristath)](https://profiles.wordpress.org/aristath/)
 
+## Crawl Optimization
+
+The Crawl Optimization Plugin is designed to help optimize your website’s crawl rate by removing unnecessary links and information from your HTTP headers. By removing elements such as shortlinks, REST API links, RSD/WLW links, oEmbed links, generator tags, and X-Pingback headers, this plugin streamlines the navigation of your website and reduces the amount of data transferred. Additionally, it also removes the “powered by” HTTP header which reveals the software and plugins used on your website, keeping your site more secure. With the Crawl Optimization Plugin SEO plugin, your website will load faster and be more easily navigated by search engines, improving your overall SEO.
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/crawl-optimization/)
+
+### Author(s)
+
+- [aleemiqbal](https://profiles.wordpress.org/aleemiqbal/)
+
 ## Website Carbon
 
 This plugin, powered by the [Website Carbon](https://www.websitecarbon.com/) project, allows for measuring and reporting on the carbon emissions of your site, so you to can understand the impact, and ultimately, reduce the emissions.
