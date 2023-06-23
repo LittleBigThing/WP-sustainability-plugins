@@ -24,7 +24,7 @@ This plugin calculates the greenhouse emissions from your website visits and int
 
 ### Author(s)
 
-- [Ari Stathopoulos (@aristath)](https://profiles.wordpress.org/aristath/)
+- [Ari Stathopoulos](https://profiles.wordpress.org/aristath/)
 
 ## Crawl Optimization
 
@@ -82,6 +82,23 @@ The Performance Lab plugin is a collection of modules focused on enhancing perfo
 #### Contributors
 
 - [WordPress Performance Team](https://make.wordpress.org/performance/)
+
+## SQLite Database Integration
+
+The SQLite plugin is a community, feature plugin. The intent is to allow testing an SQLite integration with WordPress and gather feedback, with the goal of eventually landing it in WordPress core. It includes code from the PHPMyAdmin project (specifically parts of the PHPMyAdmin/sql-parser library), licensed under the GPL v2 or later. More info on the PHPMyAdmin/sql-parser library can be found on GitHub.
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/sqlite-database-integration/)
+- [Github page](https://github.com/WordPress/sqlite-database-integration)
+
+### Author(s)
+
+- [WordPress.org](https://profiles.wordpress.org/wordpressdotorg/)
+
+#### Contributors
+
+- [Ari Stathopoulos](https://profiles.wordpress.org/aristath/)
 
 ## Website Carbon
 
