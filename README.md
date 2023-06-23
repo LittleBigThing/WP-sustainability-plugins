@@ -38,6 +38,18 @@ The Crawl Optimization Plugin is designed to help optimize your website’s craw
 
 - [aleemiqbal](https://profiles.wordpress.org/aleemiqbal/)
 
+## GreenerWP
+
+[GreenerWP](https://greenerwp.net) is dedicated to help WordPress site owners making their sites and blogs more environmentally sustainable. The project consists of free guides and open source tools to analyse and optimise your WordPress projects.
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/greenerwp/)
+
+### Author(s)
+
+- [Christian Neumann](https://profiles.wordpress.org/cneumann/)
+
 ## Lazy Embed
 
 This plugin defers the loading of any resource required for playing the video until the video is requested to be played. It does this by adding a srcdoc attribute to the iframe which shows in place of the normal iframe content. Currently the following third parties are supported: Youtube, Vimeo and Dailymotion.
