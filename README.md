@@ -38,6 +38,22 @@ The Crawl Optimization Plugin is designed to help optimize your website’s craw
 
 - [aleemiqbal](https://profiles.wordpress.org/aleemiqbal/)
 
+## Lazy Embed
+
+This plugin defers the loading of any resource required for playing the video until the video is requested to be played. It does this by adding a srcdoc attribute to the iframe which shows in place of the normal iframe content. Currently the following third parties are supported: Youtube, Vimeo and Dailymotion.
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/lazy-embed/)
+
+### Author(s)
+
+- [beleaf](https://profiles.wordpress.org/beleaf/)
+
+#### Contributors
+
+- [Josh](https://profiles.wordpress.org/josh-stopper/)
+
 ## Website Carbon
 
 This plugin, powered by the [Website Carbon](https://www.websitecarbon.com/) project, allows for measuring and reporting on the carbon emissions of your site, so you to can understand the impact, and ultimately, reduce the emissions.
