@@ -66,6 +66,23 @@ This plugin defers the loading of any resource required for playing the video un
 
 - [Josh](https://profiles.wordpress.org/josh-stopper/)
 
+## Performance Lab
+
+The Performance Lab plugin is a collection of modules focused on enhancing performance of your site, most of which should eventually be merged into WordPress core. The plugin allows to individually enable and test the modules to get their benefits before they become available in WordPress core, and to provide feedback to further improve the solutions.
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/performance-lab/)
+- [Github page](https://github.com/WordPress/performance)
+
+### Author(s)
+
+- [WordPress.org](https://profiles.wordpress.org/wordpressdotorg/)
+
+#### Contributors
+
+- [WordPress Performance Team](https://make.wordpress.org/performance/)
+
 ## Website Carbon
 
 This plugin, powered by the [Website Carbon](https://www.websitecarbon.com/) project, allows for measuring and reporting on the carbon emissions of your site, so you to can understand the impact, and ultimately, reduce the emissions.
