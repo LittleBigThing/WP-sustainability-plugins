@@ -1,6 +1,6 @@
 # WordPress sustainability plugins
 
-This is a list (in the making) of WordPress plugins that are related to sustainability (in the broader sense of the word).
+This is a list (in the making) of WordPress plugins that are related to sustainability (in alphabetical order and in the broader sense of the word).
 
 ## Carbon Footprint
 
