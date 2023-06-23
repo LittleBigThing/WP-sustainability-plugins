@@ -14,6 +14,18 @@ This WordPress plugin adds a collection of tests and information to WordPress’
 
 - [Csaba Varszegi (LittleBigThings)](https://profiles.wordpress.org/littlebigthing/)
 
+## Carbon Offset
+
+This plugin calculates the greenhouse emissions from your website visits and integrates with the [Cloverly](https://cloverly.com/) for offsets & payments. The plugin is easily extendable to add future implementations of other services capable of carbon offsets on demand, as well as transaction-based carbon-offsetting for e-commerce (not yet implemented in v1.0).
+
+### Source
+
+- [WP.org plugin page](https://wordpress.org/plugins/carbon-offset/)
+
+### Author(s)
+
+- [Ari Stathopoulos (@aristath)](https://profiles.wordpress.org/aristath/)
+
 ## Website Carbon
 
 This plugin, powered by the [Website Carbon](https://www.websitecarbon.com/) project, allows for measuring and reporting on the carbon emissions of your site, so you to can understand the impact, and ultimately, reduce the emissions.
