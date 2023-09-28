@@ -38,6 +38,18 @@ The Crawl Optimization Plugin is designed to help optimize your website’s craw
 
 - [aleemiqbal](https://profiles.wordpress.org/aleemiqbal/)
 
+## Eco-Mode
+
+Recurring outgoing HTTP requests in WordPress can be a source of needless energy and bandwidth usage that can be recalibrated and optimized. This project intends to optimize those recurring requests by hooking into wp_*_remote_get|post calls and/or the Requests library that ships with WordPress to monitor and control such requests.
+
+### Source
+
+- [Github page](https://github.com/Eco-Mode-WP/Eco-Mode)
+
+### Author(s)
+
+- [Contributors](https://github.com/Eco-Mode-WP/Eco-Mode/graphs/contributors)
+
 ## GreenerWP
 
 [GreenerWP](https://greenerwp.net) is dedicated to help WordPress site owners making their sites and blogs more environmentally sustainable. The project consists of free guides and open source tools to analyse and optimise your WordPress projects.
